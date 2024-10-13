@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **cloud providers , services and cloud developer**
 
-- 📫 How to reach me **pshiv4799@gmail.com**
-
 - ⚡ Fun fact **I enjoy reading books, drawing, and experimenting with new recipes in the kitchen. 📚✏️**
 
 <h3 align="left">Connect with me:</h3>
