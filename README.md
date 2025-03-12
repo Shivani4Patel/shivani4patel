@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm shivani</h1>
 <h3 align="center">A passionate Cloud Developer from Canada</h3>
 
-- 🔭 I’m currently working on **Devops projects**
+- 🔭 I’m currently working on **Devops Cloud Based projects**
 
-- 🌱 I’m currently learning **Kubernates and Solution Architect Cloud fundamental**
+- 🌱 I’m currently learning **Kubernates and AWS aecurity real time scenarios**
 
 - 💬 Ask me about **Cloud,Devops,Programming**
 
