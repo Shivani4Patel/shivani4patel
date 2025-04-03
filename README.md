@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Devops Cloud Based projects**
 
-- 🌱 I’m currently learning **Kubernates and AWS aecurity real time scenarios**
+- 🌱 I’m currently learning **Kubernates and AWS Security real time scenarios**
 
 - 💬 Ask me about **Cloud,Devops,Programming**
 
