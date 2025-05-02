@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nm9dSwsBLQSDNneo-CiU8YXzAaRDm6og/view?usp=share_link](https://drive.google.com/file/d/1nm9dSwsBLQSDNneo-CiU8YXzAaRDm6og/view?usp=share_link)
 
-- ⚡ Fun fact **People think I make good food**
+- ⚡ Fun fact **I can’t resist automating everything in the cloud—even my weekend plans.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
