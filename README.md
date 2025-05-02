@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pshe47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nm9dSwsBLQSDNneo-CiU8YXzAaRDm6og/view?usp=share_link(https://drive.google.com/file/d/1nm9dSwsBLQSDNneo-CiU8YXzAaRDm6og/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nm9dSwsBLQSDNneo-CiU8YXzAaRDm6og/view?usp=share_link](https://drive.google.com/file/d/1nm9dSwsBLQSDNneo-CiU8YXzAaRDm6og/view?usp=share_link)
 
 - ⚡ Fun fact **People think I make good food**
 
